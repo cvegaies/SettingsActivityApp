@@ -1,0 +1,13 @@
+<resources>
+
+    <array name="tipo_archivo_labels">
+        <item>@string/intern_label</item>
+        <item>@string/extern_label</item>
+    </array>
+
+    <array name="tipo_archivo_values">
+        <item>@string/intern_value</item>
+        <item>@string/extern_value</item>
+    </array>
+
+</resources>

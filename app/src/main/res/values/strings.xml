@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ajustes</string>
+
+    <string name="predeterminado">ninguno</string>
+
+    <string name="extern_label">Archivo en almacenamiento externo</string>
+    <string name="extern_value">externo</string>
+
+    <string name="intern_label">Archivo en almacenamiento interno</string>
+    <string name="intern_value">interno</string>
+
+    <string name="file_type">Tipo de archivo</string>
+    <string name="file_type_key">tipoarchivo</string>
+
+    <string name="menu_title">Ajustes</string>
+
+    <string name="title_activity_ajustes">Ajustes Activity</string>
+</resources>
