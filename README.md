@@ -14,7 +14,7 @@ En el manifiesto de declara el padre de la SettingsActivity:
     android:label="@string/title_activity_ajustes"  
     **android:parentActivityName=".MainActivity"**/&gt;
 
-En la actividad de ajustes se obtiene la barra de actividad y se activa la vuelta a la actividad padre:
+En la actividad de ajustes se obtiene la barra de acción y se activa la vuelta a la actividad padre:
 
 > @Override  
 protected void onCreate(Bundle savedInstanceState) {  
